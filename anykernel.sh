@@ -4,12 +4,12 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Lolz Kernel for Olive by Jprimero15
+kernel.string=Legendary Kernel for Pine by AndroJr7
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=olive
+device.name1=pine
 supported.versions=
 supported.patchlevels=
 '; } # end properties
